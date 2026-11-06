@@ -1,5 +1,5 @@
 {
   "latest_version": "3.0.6",
-  "release_notes": "- Sửa lỗi mất ảnh ở các ý phần trắc nghiệm đúng sai.\n- Tối ưu giao diện kích hoạt phần mềm.\n- Sửa lỗi không nhận diện icon.",
+  "release_notes": "- Sửa lỗi mất ảnh ở các ý phần trắc nghiệm đúng sai.\n- Tối ưu giao diện kích hoạt phần mềm.\n- Cập nhật qua GitHub.",
   "download_url": "https://github.com/dungpv91/dmix-update/releases/download/v3.0.6/Setup_Dmix_3.0.6.exe"
 }
