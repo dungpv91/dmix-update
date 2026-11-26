@@ -1,5 +1,5 @@
 {
-  "latest_version": "3.0.7",
-  "release_notes": "- Sửa lỗi mất ảnh ở các ý phần trắc nghiệm đúng sai.\n- Tối ưu tiện ích hỗ trợ soạn đề thi trên Word.\n- Cập nhật qua GitHub.",
-  "download_url": "https://github.com/dungpv91/dmix-update/releases/download/v3.0.7/Setup_Dmix_3.0.7.exe"
+  "latest_version": "4.0.0",
+  "release_notes": "- Giao diện hoàn toàn mới.\n- Đã tích hợp tính năng tạo ma trận & đặc tả.\n- Cập nhật qua GitHub.",
+  "download_url": "https://github.com/dungpv91/dmix-update/releases/download/v4.0.0/Setup_Dmix_4.0.0.exe"
 }
