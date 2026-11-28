@@ -1,5 +1,5 @@
 {
-  "latest_version": "4.0.0",
-  "release_notes": "- Giao diện hoàn toàn mới.\n- Đã tích hợp tính năng tạo ma trận & đặc tả.\n- Cập nhật qua GitHub.",
-  "download_url": "https://github.com/dungpv91/dmix-update/releases/download/v.4.0.0/Setup_Dmix_4.0.0.exe"
+  "latest_version": "4.1.1",
+  "release_notes": "- Giao diện hoàn toàn mới.\n- Hỗ trợ trộn đề theo nhóm câu hỏi tương tự.\n- Đã tích hợp tính năng tạo ma trận & đặc tả.\n- Import yêu cầu cần đạt (NB, TH, VD) bằng file Word nhanh",
+  "download_url": "https://github.com/dungpv91/dmix-update/releases/download/v4.1.1/Setup_Dmix_4.1.1.exe"
 }
